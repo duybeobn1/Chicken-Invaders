@@ -1,0 +1,27 @@
+var searchData=
+[
+  ['setboss_0',['setBoss',['../classBossSDL.html#a96f4023172a8f210a4e47c5bcfe1c5a4',1,'BossSDL']]],
+  ['setbullet_1',['setBullet',['../classBulletSDL.html#a900bef49bfb44030a56f96d612ab12ca',1,'BulletSDL']]],
+  ['setbulletdamage_2',['setBulletDamage',['../classPlayer.html#a734c3d87f16f12efc239734af31b0b5c',1,'Player']]],
+  ['setbulletlist_3',['setBulletList',['../classPlayer.html#aac59514e9182fbbe1e244ffabdd6f507',1,'Player']]],
+  ['setbullettype_4',['setBulletType',['../classBullet.html#a5d029211e69f49f1097e7de2ccb34779',1,'Bullet::setBulletType()'],['../classPlayer.html#a7831e815bf3464b35223c7409792e53d',1,'Player::setBulletType()']]],
+  ['setchicken_5',['setChicken',['../classChickenSDL.html#a60ffc5076875d12145035b49f085feb2',1,'ChickenSDL']]],
+  ['setclip_6',['setClip',['../classGiftSDL.html#abbae5a16792f78d0ac67e11351f3fa15',1,'GiftSDL::setClip()'],['../classExplodeSDL.html#a228e20bffe97b4f0fcd47cc507fd3777',1,'ExplodeSDL::setClip()'],['../classChickenSDL.html#a9a6e7ffc202bc53324150830c5cea397',1,'ChickenSDL::setClip()'],['../classBossSDL.html#a45ca71eebac1ea359b500cd6497285c6',1,'BossSDL::setClip()']]],
+  ['setcolor_7',['setColor',['../classText.html#a9b0180d6341664bc10e1323486c9d32b',1,'Text']]],
+  ['setcomeback_8',['setComeBack',['../classGift.html#a043583f9ba39131b176410c09aa21ca0',1,'Gift::setComeBack()'],['../classChicken.html#a067c8882d33158cd551fcb886abc236c',1,'Chicken::setComeBack()']]],
+  ['setframe_9',['setFrame',['../classExplodeSDL.html#a8c66eea7e333f701cc780cd5ff5f0e10',1,'ExplodeSDL']]],
+  ['setgift_10',['setGift',['../classGiftSDL.html#afadd8f936fee6b7b864e1c6db7c54310',1,'GiftSDL']]],
+  ['setgifttype_11',['setGiftType',['../classGift.html#a142d91d1e490d018044b9ff15b45dde4',1,'Gift']]],
+  ['setheart_12',['setHeart',['../classBoss.html#a1f73ac3ff8800298228142d9afeadc4d',1,'Boss::setHeart()'],['../classChicken.html#ab89d3b62e997d37aa2ed7271dfb94e93',1,'Chicken::setHeart()'],['../classPlayer.html#a93ad04560a7c689d6c0a87820ad98d28',1,'Player::setHeart()']]],
+  ['sethighscore_13',['setHighScore',['../classGameSDL.html#a1fe0d53bee5653a7332d458d83c889b2',1,'GameSDL']]],
+  ['setmove_14',['setMove',['../classBullet.html#a641fceb5b4b6e00f2d9c6fcb9b92f6c5',1,'Bullet::setMove()'],['../classBulletSDL.html#a3a74bef80126244e3ac47943b32eb95f',1,'BulletSDL::setMove()']]],
+  ['setplayer_15',['setPlayer',['../classPlayerSDL.html#a3bd145144e8c7be75a48d51a4df17a94',1,'PlayerSDL']]],
+  ['setrect_16',['setRect',['../classBase.html#a5023fb016d21dbc64a1a6f17c7ced57e',1,'Base']]],
+  ['setstatus_17',['setStatus',['../classBoss.html#a0715d26120ca079b421a4e062e541da4',1,'Boss::setStatus()'],['../classChicken.html#a37007b2a3e2ce2598aa6f3df0b148692',1,'Chicken::setStatus()'],['../classPlayer.html#a28a59bb2513e384799f3722bbeb5d105',1,'Player::setStatus()']]],
+  ['setstatusright_18',['setStatusRight',['../classChicken.html#a2241984080c5a371674136b2505da36f',1,'Chicken']]],
+  ['settext_19',['setText',['../classText.html#ab5d94cabbc7855f67505db3fce3ef94b',1,'Text']]],
+  ['setx_20',['setX',['../classBoss.html#a662ba2a0c694c74c3d95646fe9475955',1,'Boss::setX()'],['../classBullet.html#aceb57a9bd6cfeff8e615259f45f0c1a9',1,'Bullet::setX()'],['../classChicken.html#a852c8ba7a4290bef87bf991450ccee80',1,'Chicken::setX()'],['../classGift.html#adbb8a2a863c55813408bdf2e1efadf54',1,'Gift::setX()'],['../classPlayer.html#a896656381e820048dc4cbf10dcb060e0',1,'Player::setX()']]],
+  ['sety_21',['setY',['../classBoss.html#aaccfb4b04a8394e825ae30dec38cee72',1,'Boss::setY()'],['../classPlayer.html#a8c24304e5833ce7d28a6e4ce38bb4671',1,'Player::setY()'],['../classGift.html#a7e9b0c0f6fea6641a87b97bfd9f47e35',1,'Gift::setY()'],['../classChicken.html#a7ae0ed8b6d9ee9c19aa605db5a6c9578',1,'Chicken::setY()'],['../classBullet.html#aa2da494176eb73fd8475e83b8e198999',1,'Bullet::setY()']]],
+  ['show_22',['show',['../classGiftSDL.html#aef39b83202b09578a8b06c1b1c7d09d1',1,'GiftSDL::show()'],['../classExplodeSDL.html#a93008c0748df26d569fdaf0a756c6eda',1,'ExplodeSDL::show()'],['../classChickenSDL.html#af16a175cd78006918b99059cd8c819a1',1,'ChickenSDL::show()'],['../classBossSDL.html#a2ff1403681855cf3136199f85573d223',1,'BossSDL::show()'],['../classPlayerSDL.html#acf81595fc892d39c963084d38878dcbe',1,'PlayerSDL::show()']]],
+  ['showheartboss_23',['showHeartBoss',['../classBossSDL.html#aed350fa763795d2964b72eb9e213074b',1,'BossSDL']]]
+];
