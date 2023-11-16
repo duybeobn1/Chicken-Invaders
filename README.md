@@ -1,6 +1,6 @@
 #Chicken Invaders
 
-## à propos  
+## A propos  
 
 	CHICKEN INVADERS est un jeu codé en c++ où vous incarnez l’un des derniers humains à bord d’un vaisseau spatial, qui doit défendre 	l’humanité d’une invasion de poulet de l’espace, pour ce faire votre faisceau est équipé d’un arsenal vous permettant de détruire la 	menace en leur tirant dessus. mais attention aux attaques des ennemis qui  vous laisseront aucun répit!! Le jeu se rapproche ainsi 	beaucoup de Star Defender par la manière de jouer. Sur un fond noir avec des étoiles, le joueur doit tirer sur les poulets ou qui arrivent du haut de l'écran . et cumule des points au fur et à mesure qu' il détruit les poulets,Son objectif est donc de ne pas se faire toucher par les tirs des poules, la partie s'arrête une fois que le joueur perd l’ensemble de ses vies, celle-ci se perd lorsque le joueur se fait toucher une fois
 	regle: W S A D pour se deplacer le joueur doit detruitre 36 poulets pour faire apparaitre le boss, le joueur dispose de 3 vies il 	doit eviter les oeuf des poulet et aussi les poulet qui se deplace vers lui. on utilise "ENTER" pour revivre une fois toucher. il 	peut tirer avec "ESPACE" . Il peu recuperer des bonus/cadeau pour ameliorer ses tires ou changer le type de tirs.
